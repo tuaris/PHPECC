@@ -3,7 +3,7 @@ PHPECC
 
 A simple frontend to Matyas Danter's phpecc libraries for the EC algorithm
 
-Usage information can be seen en the example.php file or at:
+Usage information can be seen in the example.php file or at:
 http://www.unibia.com/unibianet/developer/php-ecc-class-library
 
 If you find this useful:
